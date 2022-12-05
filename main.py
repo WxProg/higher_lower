@@ -1,7 +1,7 @@
 from os import system, name
 from art import logo, vs
 from game_data import data
-from random import choice
+from random import choice, randint
 
 
 def start_game():
